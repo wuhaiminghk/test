@@ -6,7 +6,7 @@ Please follow the steps:
 4. Add a new collection named "Weather Report"
 5. Choose "Get" option
 6. Fill the URL input with "https://data.weather.gov.hk/weatherAPI/opendata/weather.php"
-7. Add 2 Params Key: dataType , Value: rhrread and Key: lang, value: tc
+7. Add 2 Params Key: "dataType" , Value: "rhrread" and Key: "lang", value: "tc"
 8. Click the "Send" button
 9. Check the Headers and Body of the response JSON
 10. copy the codes from https://github.com/wuhaiminghk/test/blob/master/TestScript.js and paste to "Tests" in Postman, the click the "Send" button
