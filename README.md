@@ -9,5 +9,5 @@ Please follow the steps:
 7. Add 2 Params Key: dataType , Value: rhrread and Key: lang, value: tc
 8. Click the "Send" button
 9. Check the Headers and Body of the response JSON
-10. copy the codes from https://github.com/wuhaiminghk/test/blob/master/CurrentWeatherTest to Tests in Postman, the click the "Send" button
+10. copy the codes from https://github.com/wuhaiminghk/test/blob/master/TestScript.js and paste to "Tests" in Postman, the click the "Send" button
 11. Find the results in "Test Result" Tab in Postman
