@@ -9,3 +9,4 @@ Please follow the steps:
 7. Add 2 Params Key: dataType , Value: rhrread and Key: lang, value: tc
 8. Click the "Send" button
 9. Check the Headers and Body of the response JSON
+10. copy the codes from ""
