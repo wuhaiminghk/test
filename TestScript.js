@@ -3,7 +3,7 @@ pm.test("Get status code is 200", function () {
     pm.response.to.have.status(200);
 });
 
-//Case 1.2 verify the data value, all the data of main should be "TRUE" or "FALSE" and main shoud be madatary
+//Case 1.2 verify the data value, all the data of main should be "TRUE" or "FALSE" and main shoud be mandatary
 let jsonData = pm.response.json();
 let rainfallDataCount = jsonData.rainfall.data.length;
 let mismatchCount = 0
